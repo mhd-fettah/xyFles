@@ -1,7 +1,7 @@
 # xyFles
 a 0.2KB flex that make sense just alight the elemnts on X Y with classes that make sense .
 
-![axis](https://github.com/mhd-fettah/xyFlex/assets/93012022/a56c1a2e-117a-4abf-8c8d-e53491ba0b63)
+![axis](https://github.com/mhd-fettah/xyFlex/assets/93012022/e05686b5-5677-4d68-930e-a78319716469)
 
 #usage 
 just add the file or the line to your css then
